@@ -16,7 +16,7 @@ The model was trained for 50 epochs, with an SGD optimizer with learning rate 0.
 
 **Final Epochs **
 
-![](images/epochs.png)
+![alt text](https://github.com/Sreekanth0/EVA5/blob/master/Session%207/images/epochs.png)
 
 
 
@@ -24,7 +24,7 @@ I did calculated **Receptive filed per layer and output size** as well. You can 
 
 
 
-![](images/RF_calc.png)
+![alt text](https://github.com/Sreekanth0/EVA5/blob/master/Session%207/images/RF_calc.PNG)
 
 
 
