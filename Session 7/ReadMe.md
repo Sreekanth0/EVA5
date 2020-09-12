@@ -16,7 +16,7 @@ The model was trained for 50 epochs, with an SGD optimizer with learning rate 0.
 
 **Final Epochs **
 
-![alt text](https://github.com/Sreekanth0/EVA5/blob/master/Session%207/images/epochs.png)
+![alt text](https://github.com/Sreekanth0/EVA5/blob/master/Session%207/images/epochs.PNG)
 
 
 
