@@ -24,6 +24,6 @@ Epoch: 24 / 24 98/98 [==============================] - 64s 648ms/step - train l
 
 Here is the Train & Test Accuracy & loss plots for one Experiment with OneCycle - Max-0.0097
 
-![alt text](images/Super Convergence with OneCycle - Max-0.0097.png)
+![alt text](images/OneCycle_MaxLR_0.0097.png)
 
 
