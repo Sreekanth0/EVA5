@@ -6,7 +6,8 @@ Drive link of Complete Data can be found [here](https://drive.google.com/drive/f
 
 This is a Custom dataset of PPE equipment (Hardhat, vest, mask & boots).You can find the images & annotation inside the zip file YoloV3_dataset.
 
+#### Depth Estimation
 And we used Intel's Monocular Depth Estimation Repo to get Depth for all the images, you can find the repo [here](https://github.com/intel-isl/MiDaS) and datset is saved in the drive with name MIDAS_depth.zip
 
-
+#### Planar Regions
 Lastly we used Nvidia Labs PlaneRCNN [Repo](https://github.com/NVlabs/planercnn) to get Planar regions for all the images & saved in the drive PlaneRCNN.zip
